@@ -1,5 +1,7 @@
 ﻿# Coindom-crypto-website
-[Coin Image](https://user-images.githubusercontent.com/105128267/220607693-29987a1c-8f0d-4835-9bfe-3b5c9f326b17.png)
+ 
+ <img src="https://user-images.githubusercontent.com/105128267/220607693-29987a1c-8f0d-4835-9bfe-3b5c9f326b17.png" alt="Alt text" title="Optional title">
+
 
 ## About the project
 Coindom is a website that allows users to search for information about various cryptocurrencies in real-time. The website is designed to provide users with accurate and up-to-date information about the price, market cap, trading volume, and other key metrics of cryptocurrencies.
