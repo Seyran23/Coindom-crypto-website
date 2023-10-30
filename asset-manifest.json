@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Coindom-crypto-website/static/css/main.ff93acc6.css",
+    "main.js": "/Coindom-crypto-website/static/js/main.ad0073a1.js",
+    "static/media/choose-main.png": "/Coindom-crypto-website/static/media/choose-main.39852b7511b28d44406f.png",
+    "static/media/bitcoin.png": "/Coindom-crypto-website/static/media/bitcoin.e146d46fb598ae0d8f43.png",
+    "static/media/ethereum.png": "/Coindom-crypto-website/static/media/ethereum.c6cffe78f0c6abc85da9.png",
+    "static/media/footer-bg.png": "/Coindom-crypto-website/static/media/footer-bg.e33c036e05f949cf81cb.png",
+    "index.html": "/Coindom-crypto-website/index.html",
+    "main.ff93acc6.css.map": "/Coindom-crypto-website/static/css/main.ff93acc6.css.map",
+    "main.ad0073a1.js.map": "/Coindom-crypto-website/static/js/main.ad0073a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff93acc6.css",
+    "static/js/main.ad0073a1.js"
+  ]
+}
